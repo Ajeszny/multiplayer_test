@@ -1,0 +1,3 @@
+D:/Fuck Jetbrains/C/multiplayer_test/client/cmake-build-debug/CMakeFiles/client.dir
+D:/Fuck Jetbrains/C/multiplayer_test/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fuck Jetbrains/C/multiplayer_test/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
